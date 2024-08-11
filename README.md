@@ -46,6 +46,12 @@
   - Created a Pivot table to show revenue and number of unit products bought by each Gender.
   - Created a scatter plot to show the relationship between age and revenue to uncover the potential relationship between the two.
 
+- To handle missing data:
+  - Omission: Exclude observation with missing values. This method is better when sufficient data remains after deletion
+  - Mean: Good for normally distributed data without outliers.
+  - Median: Better for skewed data or data with outliers.
+  - Mode: Useful for categorical data or when you want to fill in with the most common value.
+
 
 #### Some Excel Shortcuts:
 
