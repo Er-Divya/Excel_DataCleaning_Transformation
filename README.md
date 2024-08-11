@@ -3,7 +3,7 @@
 - In Filter Start excel file, I explore 5 scenarios with Filter function.(I used Google sheet to work on this file as I do not have access to filter function with my Microsoft Excel licence)
   - Filter records based on Country value.
   - Filter record based on Country and/or Industry value.
-  - 1. Print headers with Filter records, 2. Print selected columns header with Filter records.
+  - a. Print headers with Filter records, b. Print selected columns header with Filter records.
   - Apply arithmatic functions on filter.
   - Filter column values for a part of string.
 
