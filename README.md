@@ -1,5 +1,29 @@
 # ExcelPractice
 
+- In Filter Start excel file, I explore 5 scenarios with Filter function.(I used Google sheet to work on this file as I do not have access to filter function with my Microsoft Excel licence)
+  - Filter records based on Country value.
+  - Filter record based on Country and/or Industry value.
+  - 1. Print headers with Filter records, 2. Print selected columns header with Filter records.
+  - Apply arithmatic functions on filter.
+  - Filter column values for a part of string.
+
+- In Data Transformation Practice Sheet, I have worked on the following questions:
+  - Enter the provided sales data into the Excel sheet: Uploaded data in the existing sheet using Power Query
+  - Format headers as bold and change the font size to 12.
+  - Format sales numbers as currency.
+  - Sort the data by sales amount in descending order.
+  - Filter the data to show only sales from the North region: If converting data into tabular form, a slicer can be created for the region else normal filter can be applied on the region field
+  - Calculate total sales using the SUM formula.
+  - Calculate average sales using the AVERAGE formula.
+  - Create a column chart to visualize the sales data.
+  - Apply conditional formatting to highlight sales above 200.
+  - Use the IF function to calculate a bonus for sales above 200.
+  - Find the sales for a specific product using the VLOOKUP function
+  - Find the sales for a particular product using the HLOOKUP function
+  - Create a pivot table to summarize sales data by region.
+  - Perform a spell check on the document.
+  - Create a line chart to visualize the sales trend over time.
+  
 - In the Data Cleaning Start file, I have completed the following cleaning tasks using Excel:
   
   - Format the table to AutoFit Row Height and Column Width
@@ -21,23 +45,6 @@
   - Created a Pivot table to show the total revenue for each salesperson and added data bars using condition formatting in the revenue column.
   - Created a Pivot table to show revenue and number of unit products bought by each Gender.
   - Created a scatter plot to show the relationship between age and revenue to uncover the potential relationship between the two.
- 
-- In Data Transformation Practice Sheet, I have worked on the following questions:
-  - Enter the provided sales data into the Excel sheet: Uploaded data in the existing sheet using Power Query
-  - Format headers as bold and change the font size to 12.
-  - Format sales numbers as currency.
-  - Sort the data by sales amount in descending order.
-  - Filter the data to show only sales from the North region: If converting data into tabular form, a slicer can be created for the region else normal filter can be applied on the region field
-  - Calculate total sales using the SUM formula.
-  - Calculate average sales using the AVERAGE formula.
-  - Create a column chart to visualize the sales data.
-  - Apply conditional formatting to highlight sales above 200.
-  - Use the IF function to calculate a bonus for sales above 200.
-  - Find the sales for a specific product using the VLOOKUP function
-  - Find the sales for a particular product using the HLOOKUP function
-  - Create a pivot table to summarize sales data by region.
-  - Perform a spell check on the document.
-  - Create a line chart to visualize the sales trend over time.
 
 
 #### Some Excel Shortcuts:
