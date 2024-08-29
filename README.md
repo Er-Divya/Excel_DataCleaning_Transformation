@@ -1,11 +1,11 @@
 # ExcelPractice
 
-- In Filter Start excel file, I explore 5 scenarios with Filter function.(I used Google sheet to work on this file as I do not have access to filter function with my Microsoft Excel licence)
+- In the Filter Start Excel file, I explore 5 scenarios with the Filter function.
   - Filter records based on Country value.
   - Filter record based on Country and/or Industry value.
   - a. Print headers with Filter records, b. Print selected columns header with Filter records.
-  - Apply arithmatic functions on filter.
-  - Filter column values for a part of string.
+  - Apply arithmetic functions on the filter.
+  - Filter column values for a part of the string.
 
 - In Data Transformation Practice Sheet, I have worked on the following questions:
   - Enter the provided sales data into the Excel sheet: Uploaded data in the existing sheet using Power Query
@@ -51,6 +51,15 @@
   - Mean: Good for normally distributed data without outliers.
   - Median: Better for skewed data or data with outliers.
   - Mode: Useful for categorical data or when you want to fill in with the most common value.
+ 
+- In the Lookup function practice file, I explore the VLOOKUP, XLOOKUP, and INDEXMATCH functions.
+  - VLOOKUP with an exact match.
+  - VLOOKUP's disadvantage.
+  - VLOOKUP approximate match.
+  - LOOKUP with data validation.
+  - INDEX and MATCH for flexible match.
+  - XLOOKUP with one or multiple lookup conditions.
+  - 2-way LOOKUP
 
 
 #### Some Excel Shortcuts:
